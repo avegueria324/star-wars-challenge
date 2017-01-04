@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: #252525;
+}
+header {
+  background-color: #EEBB44;
+}
+header h1 {
+  line-height: 1;
+  margin-bottom: 0;
+}
+p.header-paragraph {
+  margin-top: .5em;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+section.cards {
+  margin-top: 25px;
+}
+section.card {
+  border: 1px solid #E5E5E5;
+  margin-bottom: 20px;
+}
+div.card-content {
+  padding: 20px;
+}
+.card-content h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.card-content p {
+  margin: 0.5em 0;
+}
